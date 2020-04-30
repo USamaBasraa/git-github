@@ -1,2 +1,2 @@
 # git-github
-Usama sheer
+its for tutorial purpose
